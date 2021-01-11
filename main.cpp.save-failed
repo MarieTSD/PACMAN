@@ -1,0 +1,31 @@
+#include <iostream>
+#include <allegro.h>
+#include <stdlib.h>
+#include "inicia.h"
+
+
+using namespace std;
+
+int main()
+{
+
+    allegro_init();
+    install_keyboard();
+
+    inicia_allegro(800, 600);
+    intrall_mouse();
+    set_gfx_mode(GFX_AUTODETECT_WINDOWED, 800, 600, 0, 0);
+
+    BITMAP *buffer=create_bitmap(800,600);
+    BITMAP *menu = load_bitmap("menu.bmp", NULL);
+    BITMAP *menu2 = load_bitmap("menu2.bmp", NULL);
+    BITMAP *menu3 = load_bitmap("menu3.bmp", NULL);
+    //clear_to_color(buffer, 0x0);
+
+    //textout_centre_ex(buffer, font, "Mi Primer Ventana", 160, 25, 0x1, 0x0);
+    blit(buffer, screen, 0, 0, 0, 0, 640, 480);
+    readkey();
+    destroy_bitmap(buffer);
+
+    return 0;
+}END_OF_MAIN()

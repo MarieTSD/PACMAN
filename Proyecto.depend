@@ -1,0 +1,236 @@
+# depslib dependency file v1.0
+1529951083 source:c:\users\joser\onedrive\documentos\2a\programacion i\proyecto chido final\proyecto - copy - copy - copy\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<fstream>
+
+1529947483 source:c:\users\marie\documents\uaa\semestre 2\progra\test_proyecto\proyecto_perron\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<fstream>
+
+1544130410 source:c:\users\marie\desktop\proyectos\test_pac-man\proyecto_perron\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<fstream>
+
+1544329816 source:c:\users\marie\desktop\proyectos\test_pac-man\proyecto_perron_chido\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<fstream>
+
+1544380332 source:c:\users\marie\desktop\proyectos\test_pac-man\proyecto_perron_chido - copy\game.cpp
+	<iostream>
+	<string.h>
+	"Game.h"
+
+1544381083 source:c:\users\marie\desktop\proyectos\test_pac-man\proyecto_perron_chido - copy\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<fstream>
+	"Game.h"
+
+1544380332 c:\users\marie\desktop\proyectos\test_pac-man\proyecto_perron_chido - copy\game.h
+
+1544380332 source:c:\users\marie\desktop\proyectos\pacman_original\game.cpp
+	<iostream>
+	<string.h>
+	"Game.h"
+
+1544380332 c:\users\marie\desktop\proyectos\pacman_original\game.h
+
+1544389932 source:c:\users\marie\desktop\proyectos\pacman_original\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	"Game.h"
+
+1544380332 source:c:\users\marie\desktop\proyectos\pacman_original - copy\game.cpp
+	<iostream>
+	<string.h>
+	"Game.h"
+
+1544380332 c:\users\marie\desktop\proyectos\pacman_original - copy\game.h
+
+1544380332 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman_original\game.cpp
+	<iostream>
+	<string.h>
+	"Game.h"
+
+1544583468 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman_original\game.h
+	<allegro.h>
+
+1544587748 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman_original\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	"Game.h"
+
+1544380332 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman_original_que_ya_jala_pero_no_usa_aun_clases\game.cpp
+	<iostream>
+	<string.h>
+	"Game.h"
+
+1544583468 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman_original_que_ya_jala_pero_no_usa_aun_clases\game.h
+	<allegro.h>
+
+1544645325 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman_original_que_ya_jala_pero_no_usa_aun_clases\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	"Game.h"
+
+1544380332 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman_original_que_ya_jal...por si la riego\game.cpp
+	<iostream>
+	<string.h>
+	"Game.h"
+
+1544583468 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman_original_que_ya_jal...por si la riego\game.h
+	<allegro.h>
+
+1544646203 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman_original_que_ya_jal...por si la riego\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	"Game.h"
+
+1544675102 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\en_prueba\game.cpp
+	<iostream>
+	<string.h>
+	"Game.h"
+
+1544675477 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\en_prueba\game.h
+	<allegro.h>
+
+1544675791 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\en_prueba\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	<cstdlib>
+	"Game.h"
+
+1544675846 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\en_prueba\tiburon.h
+	<allegro.h>
+
+1544675830 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\en_prueba\tiburon.cpp
+	<iostream>
+	"Tiburon.h"
+	<allegro.h>
+
+1544675102 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\eeeeeel perrron\game.cpp
+	<iostream>
+	<string.h>
+	"Game.h"
+
+1544675477 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\eeeeeel perrron\game.h
+	<allegro.h>
+
+1544676149 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\eeeeeel perrron\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	<cstdlib>
+	"Game.h"
+
+1544675830 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\eeeeeel perrron\tiburon.cpp
+	<iostream>
+	"Tiburon.h"
+	<allegro.h>
+
+1544675846 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\eeeeeel perrron\tiburon.h
+	<allegro.h>
+
+1544675102 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\eeeeeel perrron_por_si_la_riego\game.cpp
+	<iostream>
+	<string.h>
+	"Game.h"
+
+1544675477 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\eeeeeel perrron_por_si_la_riego\game.h
+	<allegro.h>
+
+1544675830 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\eeeeeel perrron_por_si_la_riego\tiburon.cpp
+	<iostream>
+	"Tiburon.h"
+	<allegro.h>
+
+1544675846 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\eeeeeel perrron_por_si_la_riego\tiburon.h
+	<allegro.h>
+
+1545060610 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\eeeeeel perrron_por_si_la_riego\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	<cstdlib>
+	"Game.h"
+
+1545147558 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\en este estoy trabanjando\game.cpp
+	<iostream>
+	<string.h>
+	"Game.h"
+
+1545147558 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\en este estoy trabanjando\game.h
+	<allegro.h>
+
+1545147496 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\en este estoy trabanjando\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	<cstdlib>
+	"Game.h"
+	"matriz.h"
+
+1545109023 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\clase_abstracta\game.cpp
+	<iostream>
+	<string.h>
+	"Game.h"
+
+1545109023 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\clase_abstracta\game.h
+	<allegro.h>
+
+1545108903 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\clase_abstracta\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	<cstdlib>
+	"Game.h"
+
+1545110690 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\en este estoy trabanjando\matriz.h
+
+1545147558 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman\game.cpp
+	<iostream>
+	<string.h>
+	"Game.h"
+
+1545147558 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman\game.h
+	<allegro.h>
+
+1545161705 source:c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	<cstdlib>
+	"Game.h"
+	"matriz.h"
+
+1545110690 c:\users\marie\universidad autónoma de aguascalientes\jessica guerrero carrera - proyectos 3er semestre\pac-man\pacman\matriz.h
+
